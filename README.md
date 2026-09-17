@@ -16,6 +16,8 @@ Database & SQL: The data was converted to Excel, and I used DuckDB inside the ma
 
 Dashboard & Analysis: The final results were brought into Tableau to build an interactive dashboard tracking hourly inventory drops, category risks, and revenue at risk.
 
+A color-coded green-to-red dashboard translates complex inventory metrics into an intuitive visual language, enabling leadership to instantly spot financial risks and gig workers to prioritize high-demand restocking without getting bogged down in raw data.
+
 ---
 
 ## Root Cause Analysis (RCA)
