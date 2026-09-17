@@ -18,6 +18,13 @@ Dashboard & Analysis: The final results were brought into Tableau to build an in
 
 ---
 
+## Root Cause Analysis (RCA)
+
+* **Delayed Vendor Replenishment**: Suppliers deliver once daily at 9:00 AM; inventory depletes by 5:30 PM.
+* **Static Reorder Points (ROP)**: Current system uses fixed reorder thresholds regardless of weekday vs. weekend demand spikes[1][2].
+* **Perishable Waste Fear**: Store managers under-order fresh dairy and produce to avoid wastage penalties
+
+---
 ## Key Findings
 
 Stock levels drop steadily through the afternoon, leading to severe stockout surges hitting up to 35% to 50% between 6 PM and 9 PM.
